@@ -1,0 +1,36 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path.s3tc="res://.import/Ground036_1K_NormalGL.jpg-a7549c9967046b7b1823e4249aaef8dd.s3tc.stex"
+path.etc2="res://.import/Ground036_1K_NormalGL.jpg-a7549c9967046b7b1823e4249aaef8dd.etc2.stex"
+metadata={
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
+}
+
+[deps]
+
+source_file="res://worlds/terrains/terrain1/textures/ground/Ground036_1K-JPG/Ground036_1K_NormalGL.jpg"
+dest_files=[ "res://.import/Ground036_1K_NormalGL.jpg-a7549c9967046b7b1823e4249aaef8dd.s3tc.stex", "res://.import/Ground036_1K_NormalGL.jpg-a7549c9967046b7b1823e4249aaef8dd.etc2.stex" ]
+
+[params]
+
+compress/mode=2
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=true
+flags/filter=true
+flags/mipmaps=true
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Rock_9.obj-9f5b7f00e30f29026fc9d70e810b09c1.mesh"
+
+[deps]
+
+files=[ "res://.import/Rock_9.obj-9f5b7f00e30f29026fc9d70e810b09c1.mesh" ]
+
+source_file="res://worlds/terrains/terrain1/textures/rocks/uploads_files_2372785_Rock_9(1)/Rock_9/Rock_9/Rock_9.obj"
+dest_files=[ "res://.import/Rock_9.obj-9f5b7f00e30f29026fc9d70e810b09c1.mesh", "res://.import/Rock_9.obj-9f5b7f00e30f29026fc9d70e810b09c1.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

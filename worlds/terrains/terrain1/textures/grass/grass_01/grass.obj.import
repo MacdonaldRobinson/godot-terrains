@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/grass.obj-a8feadcf29af1801f1c9efd34bf25f60.mesh"
+
+[deps]
+
+files=[ "res://.import/grass.obj-a8feadcf29af1801f1c9efd34bf25f60.mesh" ]
+
+source_file="res://worlds/terrains/terrain1/textures/grass/grass_01/grass.obj"
+dest_files=[ "res://.import/grass.obj-a8feadcf29af1801f1c9efd34bf25f60.mesh", "res://.import/grass.obj-a8feadcf29af1801f1c9efd34bf25f60.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
